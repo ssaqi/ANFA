@@ -1,0 +1,11 @@
+.bg_img{
+
+      width: auto;
+      height: 800px;
+      background-image: url('../../Assets/back.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: 'center'
+    
+}
+

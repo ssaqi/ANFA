@@ -1,0 +1,19 @@
+.nav-link {
+
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 8px;
+}
+
+.btnn{
+
+      background-color: #45593F;
+      color: #fff;
+      margin-left: 20px;
+      font-size: 12px;
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+}
