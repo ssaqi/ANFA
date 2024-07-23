@@ -1,0 +1,20 @@
+.bgimg{
+
+    height: 700px;
+    background-image: url('../../../Assets/galery.png');
+    background-size: cover;
+    
+}
+
+
+.img{
+
+      height: 250px;
+}
+
+
+
+.img2{
+
+    height: 508px
+}
